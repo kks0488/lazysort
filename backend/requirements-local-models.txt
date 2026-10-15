@@ -1,0 +1,7 @@
+# Optional: local image classification used by /smart-organize and /session-organize
+torch
+transformers
+git+https://github.com/apple/ml-mobileclip.git
+# Optional (macOS): Apple Vision OCR for brand detection in /session-analyze
+pyobjc-framework-Vision
+pyobjc-framework-Quartz

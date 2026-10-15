@@ -1,0 +1,12 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+backend/models/
+backend/history.json
+backend/move_journal.json
+samples/
